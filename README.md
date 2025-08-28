@@ -1,7 +1,7 @@
 # Excel_VBA_ExtendedDelete
 
 ## 概要
-VBAを利用してExcelの空白セルを一括削除します。  
+Excel Sheetの選択範囲に含まれる空白セルを一括削除します。  
 PERSONAL.XLSBに保存して動作させることを想定しています。  
 <img src="image_delete.png" alt="イメージ画像" width="700">
 
