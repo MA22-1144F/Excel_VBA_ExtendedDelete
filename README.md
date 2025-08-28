@@ -3,22 +3,23 @@
 ## 概要
 Excel Sheetの選択範囲に含まれる空白セルを一括削除します。  
 PERSONAL.XLSBに保存して動作させることを想定しています。  
+
 <img src="image_delete.png" alt="イメージ画像" width="700">
 
 ## 動作環境
 Microsoft Excel上で動作します。  
 
 ## インストール方法
-1. Contentsフォルダ内のUserForm削除選択.frm、UserForm削除選択.frx、拡張削除.basを任意の同一フォルダに保存
+1. Contentsフォルダ内の UserForm削除選択.frm、UserForm削除選択.frx、拡張削除.bas を任意の同一フォルダに保存
 2. Excelで新規WorkSheetを開く
 3. 開発タブのVisual BasicまたはAlt+F11でVBE(Visual Basic Editor)を開く
-4. VBAProject一覧からVBAProject (PERSONAL.XLSB)を選択し右クリック
+4. VBAProject一覧から VBAProject (PERSONAL.XLSB) を選択し右クリック
 5. ファイルのインポートで保存したUserForm削除選択.frmを開く
-6. 加えてファイルのインポートで保存した拡張削除.basを開く
+6. 加えてファイルのインポートで保存した 拡張削除.bas を開く
 7. 上書き保存ボタンまたはCtrl+Sで保存
 以下オプション設定  
 8. 任意のExcel WorkSheetに戻り、ファイル→オプション→リボンのユーザー設定の順で遷移
-9. 任意のユーザー設定グループ(無ければ新規作成)にPERSONAL.XLSB!拡張削除.拡張削除のマクロを追加
+9. 任意のユーザー設定グループ(無ければ新規作成)に PERSONAL.XLSB!拡張削除.拡張削除 のマクロを追加
 10. お好みで名前やアイコンを変更
 11. Excel WorkSheetに戻り、設定したマクロのアイコンを選択して起動
 
