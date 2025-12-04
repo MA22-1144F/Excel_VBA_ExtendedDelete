@@ -30,8 +30,5 @@ Microsoft Excel上で動作します。
   * 空白セルのある行全体を削除  
   * 空白セルのある列全体を削除  
 
-## 連絡先
-[Instagram](https://www.instagram.com/nattotoasto?igsh=NWNtdHhnY3A4NDQ0 "nattotoasto")
-
 ## ライセンス
 MIT License
